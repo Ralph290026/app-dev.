@@ -1,2 +1,2 @@
 # app-dev.
-My first repository.
+**Breaking Bad is an acclaimed American TV series created by Vince Gilligan. It follows Walter White, a high school chemistry teacher turned meth manufacturer, who partners with former student Jesse Pinkman to secure his family's financial future after a terminal cancer diagnosis. Set in Albuquerque, the show explores themes of morality, family, and the consequences of crime. Known for its intense storytelling and character development, Breaking Bad has won numerous awards and is praised as one of the greatest TV dramas, particularly for Bryan Cranston’s and Aaron Paul’s performances.**
